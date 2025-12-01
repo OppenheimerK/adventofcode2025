@@ -1,0 +1,5 @@
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/src/dial.adb:21:30: warning: "Current_Position" may be null [enabled by default]
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/src/dial.adb:28:30: warning: "Current_Position" may be null [enabled by default]
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/src/dial.adb:33:07: warning: "Next_Node" is not modified, could be declared constant [-gnatwk]
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/src/dial.adb:33:52: warning: "Cursor" may be null [enabled by default]
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/src/dial.adb:33:80: (style) this line is too long [-gnatyM]

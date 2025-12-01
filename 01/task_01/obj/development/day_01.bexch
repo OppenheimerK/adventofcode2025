@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__day_01.o
+[PROJECT FILES]
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/day_01.gpr
+20251201105024 c7a148959b4302527320182fd0f41970
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/config/day_01_config.gpr
+20251201213206 71ef372648fbf26cb5ca71c548c1112b
+[BOUND OBJECT FILES]
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/obj/development/dial.o
+/home/kschoenfelder/projekte/adventofcode2025/01/task_01/obj/development/day_01.o
+[GENERATED SOURCE FILES]
+b__day_01.ads
+b__day_01.adb
+b__day_01.ali
+[RESULTING OPTIONS]
+-L/home/kschoenfelder/projekte/adventofcode2025/01/task_01/obj/development/
+-L/home/kschoenfelder/projekte/adventofcode2025/01/task_01/obj/development/
+-L/home/kschoenfelder/.local/share/alire/toolchains/gnat_native_14.2.1_06bb3def/lib/gcc/x86_64-pc-linux-gnu/14.2.0/adalib/
+-static
+-static-libgcc
+/home/kschoenfelder/.local/share/alire/toolchains/gnat_native_14.2.1_06bb3def/lib/gcc/x86_64-pc-linux-gnu/14.2.0/adalib/libgnat.a
+-ldl
