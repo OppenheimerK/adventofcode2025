@@ -8,7 +8,7 @@ package Dial is
    end record;
 
    function Initialize (Size : Integer; Start : Integer) return Node_Access;
-   procedure Next (Steps : Integer; Current_Position : out Node_Access);
-   procedure Previous (Steps : Integer; Current_Position : out Node_Access);
+   procedure Next (Steps : Integer; Current_Position : out Node_Access; Counter : in out Integer);
+   procedure Previous (Steps : Integer; Current_Position : out Node_Access; Counter : in out Integer);
    procedure Append (Cursor : out Node_Access);
 end Dial;
